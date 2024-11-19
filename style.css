@@ -1,16 +1,23 @@
+@import url('https://fonts.googleapis.com/css2?family=Bokor&display=swap');
+
 body{
   background-color: rgb(7, 179, 64);
-  color: rgb(16, 66, 158);
+  color: beige;
+  font-family:"Sour Gummy", sans-serif;
 }
-
-section{
+header{
+  font-size: 40px;
+  padding-left: 30px;
+  background-color: crimson;
+}
+.chamada{
   background: rgb(184, 156, 213);
   padding-bottom: 80px;
   padding-top: 80px;
   display:flex;
   justify-content: center;
+  
 }
-
-  .chamada-texto{
+ .chamada-texto{
     margin-right: 100px;
 }
